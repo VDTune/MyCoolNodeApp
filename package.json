@@ -13,7 +13,6 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VDTune/MyCoolNodeApp.git"
